@@ -1,7 +1,14 @@
 body{
   background:#fff;
 }
+#content{
+	margin-left: 260px;
+}
 #content code{
   background:#eee;
   border: 1px solid #ddd;
+}
+#nav{
+	position: fixed;
+	top: 0;
 }
