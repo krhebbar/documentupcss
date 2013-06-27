@@ -12,3 +12,8 @@ body{
 	position: fixed;
 	top: 0;
 }
+.tomorrow-comment, pre .comment, pre .title{
+	color: #cc333f;
+        font-weight: bolder;
+        font-family: adelle;
+}
